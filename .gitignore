@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ConsoleTest_ArchiveProcess/ConsoleTest_ArchiveProcess.csproj
+/ConsoleTest_FolderWatcher/ConsoleTest_FolderWatcher.csproj
+/TestMegaUtility/TestMegaUtility.csproj
